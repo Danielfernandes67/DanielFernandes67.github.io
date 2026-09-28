@@ -1,0 +1,119 @@
+header {
+    background-color: pink;
+    text-align: center;
+    border-bottom-style: solid;
+    padding: 10px;
+}
+
+main img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid black;
+    display: block;
+    margin: 0 auto 10px;
+    object-fit: cover;
+}
+
+header ul {
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+header ul li {
+    padding: 20px;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+
+    color: black;
+}
+
+body {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+}
+
+main {
+    margin: 10px 15%;
+}
+
+#educacao h2 {
+    border-bottom: solid 2px black;
+}
+
+#experiencia h2 {
+    border-bottom: solid 2px black;
+}
+
+#competencias h2 {
+    border-bottom: solid 2px black;
+}
+
+#glossario h2 {
+    border-bottom: solid 2px black;
+}
+
+#contato h2 {
+    border-bottom: solid 2px black;
+}
+
+
+#educacao th {
+    background-color: pink;
+
+}
+
+#educacao th,
+#educacao td {
+    border: solid 1px black;
+    padding: 10px;
+}
+
+#educacao table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#experiencia th {
+    background-color: pink;
+
+}
+
+#experiencia th,
+#experiencia td {
+    border: solid 1px black;
+    padding: 10px;
+}
+
+#experiencia table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#contato a {
+
+
+    color: pink;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: pink;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
